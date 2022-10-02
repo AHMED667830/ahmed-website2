@@ -1,0 +1,696 @@
+*{
+    font-family: 'Harmattan', sans-serif;
+font-family: 'Montserrat', sans-serif;
+}
+@media (min-width: 350px){
+    body{
+        background: url(/img/015\ Mean\ Fruit.png);
+        background-size: cover;
+         padding: 0px;
+         margin: 0px;
+     }
+     
+     header div h1{
+         text-align: center;
+       
+     }
+     header div ul{
+         list-style: none;
+         display: flex;
+         
+     }
+     header div ul li{
+         padding: 10px;
+         margin: auto;
+     }
+     header div ul li a{
+        text-decoration: none;
+        color: #000;
+        font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+         
+     }
+     h2{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+     }
+     p{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+     }
+     h4{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+         background-color: #fff;
+         width: 300px;
+         margin: auto auto 50px;
+         border-radius: 50px;
+         
+     }
+     .qwe1{
+         display: block;
+         margin: auto;
+         
+         padding: 10px;
+         text-align: center;
+         
+         border-radius: 30px ;
+         background-color: rgb(255, 255, 255);
+     }
+     
+     .qwe1 div{
+        
+       padding: 10px;
+       
+         
+     }
+     
+     
+     .qwe1 h4{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+     
+      }
+     .qwe1 p {
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+      }
+     
+     .qwe2 h5{
+      font-size: 30px;
+      font-family: 'Harmattan', sans-serif;
+      background-color: #fff;
+      width: 300px;
+      text-align: center;
+      margin: auto;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      border-radius: 30px;
+     }
+     .qwe2 img{
+         padding: 10px;
+        width: 300px; ;
+        border-radius: 5px;
+        background-color: #fff;
+        margin-right: 75px;
+        
+     }
+     .qwe3{
+         background-color: lightcoral;
+         width: 300px;
+         margin: auto;
+         border-radius: 5px;
+         
+     }
+     
+     .qwe3 h1{
+        text-align: center;
+        font-family: 'Harmattan', sans-serif;
+     }
+     .qwe3 label{
+         margin-right: 50px;
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+        
+      }
+      .qwe3 input{
+         text-align: center;
+         margin-bottom: 15px;
+         display: flex;
+         font-family: 'Harmattan', sans-serif;
+         margin: auto;
+         background-color: antiquewhite;
+         border: 5px solid antiquewhite;
+         border-radius: 30px;
+         margin-top: 5px;
+      }
+      footer h3{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         color: #fff;
+      }
+}
+@media (min-width: 576px) { 
+    body{
+        background: url(/img/015\ Mean\ Fruit.png);
+        background-size: cover;
+         padding: 0px;
+         margin: 0px;
+     }
+     
+     header div h1{
+         text-align: center;
+       
+     }
+     header div ul{
+         list-style: none;
+         display: flex;
+         
+     }
+     header div ul li{
+         padding: 10px;
+         margin: auto;
+     }
+     header div ul li a{
+        text-decoration: none;
+        color: #000;
+        font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+         
+     }
+     h2{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+     }
+     p{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+     }
+     h4{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+         background-color: #fff;
+         width: 300px;
+         margin: auto auto 50px;
+         border-radius: 50px;
+         
+     }
+     .qwe1{
+         display: block;
+         margin: auto;
+         
+         padding: 10px;
+         text-align: center;
+         
+         border-radius: 30px ;
+         background-color: rgb(255, 255, 255);
+     }
+     
+     .qwe1 div{
+        
+       padding: 10px;
+       
+         
+     }
+     
+     
+     .qwe1 h4{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+     
+      }
+     .qwe1 p {
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+      }
+     
+     .qwe2 h5{
+      font-size: 30px;
+      font-family: 'Harmattan', sans-serif;
+      background-color: #fff;
+      width: 300px;
+      text-align: center;
+      margin: auto;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      border-radius: 30px;
+     }
+     .qwe2 img{
+         padding: 10px;
+       margin-right: 50px;
+        border-radius: 5px;
+        background-color: #fff;
+        
+     }
+     .qwe3{
+         background-color: lightcoral;
+         width: 500px;
+         margin: auto;
+         border-radius: 5px;
+         
+     }
+     
+     .qwe3 h1{
+        text-align: center;
+        font-family: 'Harmattan', sans-serif;
+     }
+     .qwe3 label{
+         margin-right: 150px;
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+        
+      }
+      .qwe3 input{
+         text-align: center;
+         margin-bottom: 15px;
+         display: flex;
+         font-family: 'Harmattan', sans-serif;
+         margin: auto;
+         background-color: antiquewhite;
+         border: 5px solid antiquewhite;
+         border-radius: 30px;
+         margin-top: 5px;
+      }
+      footer h3{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         color: #fff;
+      }
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) { 
+    body{
+        background: url(/img/015\ Mean\ Fruit.png);
+        background-size: cover;
+         padding: 0px;
+         margin: 0px;
+     }
+     
+     header div h1{
+         text-align: center;
+       
+     }
+     header div ul{
+         list-style: none;
+         display: flex;
+         
+     }
+     header div ul li{
+         padding: 10px;
+         margin: auto;
+     }
+     header div ul li a{
+        text-decoration: none;
+        color: #000;
+        font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+         
+     }
+     h2{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+     }
+     p{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+     }
+     h4{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+         background-color: #fff;
+         width: 300px;
+         margin: auto auto 50px;
+         border-radius: 50px;
+         
+     }
+     .qwe1{
+         display: block;
+         margin: auto;
+         
+         padding: 10px;
+         text-align: center;
+         
+         border-radius: 30px ;
+         background-color: rgb(255, 255, 255);
+     }
+     
+     .qwe1 div{
+        
+       padding: 10px;
+       
+         
+     }
+     
+     
+     .qwe1 h4{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+     
+      }
+     .qwe1 p {
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+      }
+     
+     .qwe2 h5{
+      font-size: 30px;
+      font-family: 'Harmattan', sans-serif;
+      background-color: #fff;
+      width: 300px;
+      text-align: center;
+      margin: auto;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      border-radius: 30px;
+     }
+     .qwe2 img{
+         padding: 10px;
+       margin-right: 50px;
+        border-radius: 5px;
+        background-color: #fff;
+        
+     }
+     .qwe3{
+         background-color: lightcoral;
+         width: 500px;
+         margin: auto;
+         border-radius: 5px;
+         
+     }
+     
+     .qwe3 h1{
+        text-align: center;
+        font-family: 'Harmattan', sans-serif;
+     }
+     .qwe3 label{
+         margin-right: 150px;
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+        
+      }
+      .qwe3 input{
+         text-align: center;
+         margin-bottom: 15px;
+         display: flex;
+         font-family: 'Harmattan', sans-serif;
+         margin: auto;
+         background-color: antiquewhite;
+         border: 5px solid antiquewhite;
+         border-radius: 30px;
+         margin-top: 5px;
+      }
+      footer h3{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         color: #fff;
+      }
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { 
+    body{
+        background: url(/img/015\ Mean\ Fruit.png);
+        background-size: cover;
+         padding: 0px;
+         margin: 0px;
+     }
+     
+     header div h1{
+         text-align: center;
+       
+     }
+     header div ul{
+         list-style: none;
+         display: flex;
+         
+     }
+     header div ul li{
+         padding: 10px;
+         margin: auto;
+     }
+     header div ul li a{
+        text-decoration: none;
+        color: #000;
+        font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+         
+     }
+     h2{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+     }
+     p{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+     }
+     h4{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+         background-color: #fff;
+         width: 300px;
+         margin: auto auto 50px;
+         border-radius: 50px;
+         
+     }
+     .qwe1{
+         display: inline-flex;
+         margin: auto;
+         
+         padding: 10px;
+         text-align: center;
+         
+         border-radius: 30px ;
+         background-color: rgb(255, 255, 255);
+     }
+     
+     .qwe1 div{
+        
+       padding: 10px;
+       
+         
+     }
+     
+     
+     .qwe1 h4{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+     
+      }
+     .qwe1 p {
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+      }
+     
+     .qwe2 h5{
+      font-size: 30px;
+      font-family: 'Harmattan', sans-serif;
+      background-color: #fff;
+      width: 300px;
+      text-align: center;
+      margin: auto;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      border-radius: 30px;
+     }
+     .qwe2 img{
+         padding: 10px;
+       margin-right: 50px;
+        border-radius: 5px;
+        background-color: #fff;
+        
+     }
+     .qwe3{
+         background-color: lightcoral;
+         width: 500px;
+         margin: auto;
+         border-radius: 5px;
+         
+     }
+     
+     .qwe3 h1{
+        text-align: center;
+        font-family: 'Harmattan', sans-serif;
+     }
+     .qwe3 label{
+         margin-right: 150px;
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+        
+      }
+      .qwe3 input{
+         text-align: center;
+         margin-bottom: 15px;
+         display: flex;
+         font-family: 'Harmattan', sans-serif;
+         margin: auto;
+         background-color: antiquewhite;
+         border: 5px solid antiquewhite;
+         border-radius: 30px;
+         margin-top: 5px;
+      }
+      footer h3{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         color: #fff;
+      }
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+    body{
+        
+        background: url(/img/015\ Mean\ Fruit.png);          
+        background-size: cover;
+         padding: 0px;
+         margin: 0px;
+     }
+     
+     header div h1{
+         text-align: center;
+         animation: rotate-hor-center 0.5s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+     
+     }
+     @keyframes rotate-hor-center {
+        0% {
+          transform: rotateX(0);
+        }
+        100% {
+          transform: rotateX(-360deg);
+        }
+      }
+      
+    
+     header div ul{
+         list-style: none;
+         display: flex;
+         
+     }
+     header div ul li{
+         padding: 10px;
+         margin: auto;
+     }
+     header div ul li a{
+        text-decoration: none;
+        color: #000;
+        font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+         
+     }
+     h2{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+     }
+     p{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+     }
+     h4{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+         background-color: #fff;
+         width: 300px;
+         margin: auto auto 50px;
+         border-radius: 50px;
+         
+     }
+     .qwe1{
+         display: inline-flex;
+         margin: auto;
+         
+         padding: 10px;
+         text-align: center;
+         
+         border-radius: 30px ;
+         background-color: rgb(255, 255, 255);
+     }
+     
+     .qwe1 div{
+        
+       padding: 10px;
+       
+         
+     }
+     
+     
+     .qwe1 h4{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+     
+      }
+     .qwe1 p {
+         font-family: 'Harmattan', sans-serif;
+         font-size: 30px;
+      }
+     
+     .qwe2 h5{
+      font-size: 30px;
+      font-family: 'Harmattan', sans-serif;
+      background-color: #fff;
+      width: 300px;
+      text-align: center;
+      margin: auto;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      border-radius: 30px;
+     }
+     .qwe2 img{
+         padding: 10px;
+       margin-right: 50px;
+        border-radius: 5px;
+        background-color: #fff;
+        
+     }
+     .qwe3{
+         background-color: lightcoral;
+         width: 500px;
+         margin: auto;
+         border-radius: 5px;
+         
+     }
+     
+     .qwe3 h1{
+        text-align: center;
+        font-family: 'Harmattan', sans-serif;
+     }
+     .qwe3 label{
+         margin-right: 150px;
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+        
+      }
+      .qwe3 input{
+         text-align: center;
+         margin-bottom: 15px;
+         display: flex;
+         font-family: 'Harmattan', sans-serif;
+         margin: auto;
+         background-color: antiquewhite;
+         border: 5px solid antiquewhite;
+         border-radius: 30px;
+         margin-top: 5px;
+      }
+      footer h3{
+         text-align: center;
+         font-family: 'Harmattan', sans-serif;
+         color: #fff;
+      }
+ }
+
+ button{
+    text-align: center;
+    margin-bottom: 15px;
+    display: flex;
+    font-family: 'Harmattan', sans-serif;
+    margin: auto;
+    background-color: antiquewhite;
+    border: 5px solid antiquewhite;
+    border-radius: 30px;
+    margin-top: 5px;
+ }
+ button:hover{
+    text-align: center;
+    margin-bottom: 15px;
+    display: flex;
+    font-family: 'Harmattan', sans-serif;
+    margin: auto;
+    background-color: rgb(224, 210, 192);
+    border: 5px solid antiquewhite;
+    border-radius: 30px;
+    margin-top: 5px;
+ }
